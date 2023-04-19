@@ -1,0 +1,6 @@
+{
+    "inputDocumentPath" : "d:/vscode-projects/github-api/data/readme/",
+    "path2MakedInstances" : "./instances/readme.ins",
+    "processType" : "makeInstances",
+    "pipeType" : "fromText2FeatureSequence"
+}

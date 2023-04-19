@@ -1,0 +1,5 @@
+{
+    "sourceDir" : "e:/gh_repos/", 
+    "targetDir" : "./data/readme/", 
+    "targetFileType" : "README.md"
+}

@@ -1,0 +1,14 @@
+{
+    "numThreads" : 4,
+    "numIteration" : 1000, 
+    "numTopics" : 30,
+    "alpha" : 0.1, 
+    "beta" : 0.01,
+    "runType" : "get-topic-distribution", 
+    "trainInstancesFilePath" : "./instances/readme.ins", 
+    "testInstancesFilePath" : "",
+    "modelInputPath" : "./model/topic/readme.tm", 
+    "modelOutputPath" : "./model/topic/readme.tm", 
+    "numTopWords" : 20, 
+    "outputDistPath" : "./readme-dist.json"
+}

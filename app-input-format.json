@@ -1,0 +1,6 @@
+{
+    "runCommand" : "topic-modeling", 
+    "dpOptionJSONPath" : "./data-process-option.json",
+    "tmOptionJSONPath" : "./topic-modeling-option.json", 
+    "fcOptionJSONPath" : "./file-collection-option.json"
+}
