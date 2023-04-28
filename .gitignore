@@ -1,4 +1,4 @@
-data/
-target/
-instances/
-model/
+/data
+/target
+/instances
+/model
